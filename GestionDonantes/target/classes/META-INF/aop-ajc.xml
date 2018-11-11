@@ -1,0 +1,27 @@
+<aspectj>
+<aspects>
+<aspect name="com.sergio.roo.jsf.jsf.converter.DonanteConverter_Roo_Converter"/>
+<aspect name="com.sergio.roo.jsf.dominio.Organo_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Organo_Roo_ToString"/>
+<aspect name="com.sergio.roo.jsf.jsf.converter.OrganoConverter_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Organo_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.sergio.roo.jsf.jsf.DonanteBean_Roo_ManagedBean"/>
+<aspect name="com.sergio.roo.jsf.jsf.ApplicationBean_Roo_ApplicationBean"/>
+<aspect name="com.sergio.roo.jsf.dominio.Donante_Roo_ToString"/>
+<aspect name="com.sergio.roo.jsf.jsf.DonanteBean_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.jsf.converter.OrganoConverter_Roo_Converter"/>
+<aspect name="com.sergio.roo.jsf.jsf.OrganoBean_Roo_ManagedBean"/>
+<aspect name="com.sergio.roo.jsf.jsf.OrganoBean_Roo_Serializable"/>
+<aspect name="com.sergio.roo.jsf.jsf.ApplicationBean_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.jsf.OrganoBean_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Organo_Roo_JavaBean"/>
+<aspect name="com.sergio.roo.jsf.jsf.converter.DonanteConverter_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Donante_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.sergio.roo.jsf.dominio.Donante_Roo_JavaBean"/>
+<aspect name="com.sergio.roo.jsf.dominio.Organo_Roo_Jpa_Entity"/>
+<aspect name="com.sergio.roo.jsf.jsf.DonanteBean_Roo_Serializable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Donante_Roo_Configurable"/>
+<aspect name="com.sergio.roo.jsf.dominio.Donante_Roo_Jpa_Entity"/>
+</aspects>
+</aspectj>
+

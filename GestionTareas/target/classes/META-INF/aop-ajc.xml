@@ -1,0 +1,27 @@
+<aspectj>
+<aspects>
+<aspect name="com.ejercicio.tareas.domain.Materias_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.ejercicio.tareas.jsf.MateriasBean_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.jsf.MateriasBean_Roo_ManagedBean"/>
+<aspect name="com.ejercicio.tareas.domain.Materias_Roo_Jpa_Entity"/>
+<aspect name="com.ejercicio.tareas.domain.Tareas_Roo_ToString"/>
+<aspect name="com.ejercicio.tareas.jsf.ApplicationBean_Roo_ApplicationBean"/>
+<aspect name="com.ejercicio.tareas.jsf.converter.MateriasConverter_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.domain.Materias_Roo_JavaBean"/>
+<aspect name="com.ejercicio.tareas.jsf.converter.TareasConverter_Roo_Converter"/>
+<aspect name="com.ejercicio.tareas.jsf.converter.MateriasConverter_Roo_Converter"/>
+<aspect name="com.ejercicio.tareas.domain.Tareas_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.domain.Materias_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.domain.Tareas_Roo_Jpa_Entity"/>
+<aspect name="com.ejercicio.tareas.domain.Tareas_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.ejercicio.tareas.jsf.TareasBean_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.domain.Tareas_Roo_JavaBean"/>
+<aspect name="com.ejercicio.tareas.jsf.ApplicationBean_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.jsf.converter.TareasConverter_Roo_Configurable"/>
+<aspect name="com.ejercicio.tareas.jsf.TareasBean_Roo_ManagedBean"/>
+<aspect name="com.ejercicio.tareas.jsf.MateriasBean_Roo_Serializable"/>
+<aspect name="com.ejercicio.tareas.domain.Materias_Roo_ToString"/>
+<aspect name="com.ejercicio.tareas.jsf.TareasBean_Roo_Serializable"/>
+</aspects>
+</aspectj>
+

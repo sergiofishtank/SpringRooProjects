@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="es.ua.jtech.web.TareaController_Roo_Controller"/>
+<aspect name="es.ua.jtech.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="es.ua.jtech.domain.Tarea_Roo_Configurable"/>
+<aspect name="es.ua.jtech.domain.Tarea_Roo_ToString"/>
+<aspect name="es.ua.jtech.domain.Tarea_Roo_Jpa_ActiveRecord"/>
+<aspect name="es.ua.jtech.domain.Tarea_Roo_JavaBean"/>
+<aspect name="es.ua.jtech.domain.Tarea_Roo_Jpa_Entity"/>
+</aspects>
+</aspectj>
+
